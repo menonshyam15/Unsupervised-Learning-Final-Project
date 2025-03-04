@@ -59,4 +59,4 @@ Retail businesses struggle with understanding diverse customer behaviors, leadin
 
 ## **Contributors**  
 👤 **[Shyam Menon]**  
-🔗 [https://www.linkedin.com/in/menonshyam703/]
+🔗 [LinkedIn](https://www.linkedin.com/in/menonshyam703/)
