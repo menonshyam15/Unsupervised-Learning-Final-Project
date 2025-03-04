@@ -58,5 +58,5 @@ Retail businesses struggle with understanding diverse customer behaviors, leadin
 - Integrate **RFM analysis** (Recency, Frequency, Monetary Value) for advanced segmentation.  
 
 ## **Contributors**  
-👤 **[Shyam Menon]**  
+👤 **Shyam Menon**  
 🔗 [LinkedIn](https://www.linkedin.com/in/menonshyam703/)
